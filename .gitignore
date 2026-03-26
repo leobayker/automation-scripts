@@ -1,0 +1,26 @@
+# Credentials — NEVER commit
+credentials.py
+*.env
+.env*
+secrets.py
+
+# Logs and output
+*.log
+logs/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Virtual environments
+venv/
+.venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
